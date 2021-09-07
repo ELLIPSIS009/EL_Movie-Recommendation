@@ -12,10 +12,7 @@ Machine Learning Classifier uses cosine_similarity which can be converted to a d
 1. Python 3: https://www.python.org/downloads/
 2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install :
     ```bash
-    pip install pandas
-    pip install numpy
-    pip install -U scikit-learn
-    pip install tkintertable
+    pip install -r requirements.txt
     ```
 
 # Dataset
