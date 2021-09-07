@@ -26,4 +26,4 @@ The important features of a movie used to find similar recomended movies are Tit
 
 # Usage
 
-Search for the Movie in the search section and select the movie from the list and then press find recommendation button <br><img src="Capture_1.jpg" alt="drawing" style="width:350px; height: 400px"/> <img src="Capture_2.jpg" alt="drawing" style="width:350px; height: 400px; margin-left:50px;"/><br>You will see top 5 Recommended movies for the movie you have selected
+Search for the Movie in the search section and select the movie from the list and then press find recommendation button <br><img src="Capture_1.JPG" alt="drawing" style="width:350px; height: 400px"/> <img src="Capture_2.JPG" alt="drawing" style="width:350px; height: 400px; margin-left:50px;"/><br>You will see top 5 Recommended movies for the movie you have selected
