@@ -19,7 +19,7 @@ Machine Learning Classifier uses cosine_similarity which can be converted to a d
 
 Dataset for this project can be downloaded [here](https://www.kaggle.com/PromptCloudHQ/imdb-data)<br>
 This dataset includes Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore<br>
-The important features of a movie used to find similar recomended movies are Title, Genre, Director, Actors 
+The important features of a movie used to find similar recomended movies are Title, Genre, Director
 
 # Usage
 
