@@ -1,6 +1,6 @@
 # Movie Recommendation Engine
 
-This is a simple GUI ( Tkinter ) based Movie Recommendation Engine.<br>
+This is a simple GUI ( Tkinter ) based Movie Recommendation Engine..<br>
 It uses cosine_similarity and CountVectorizer on a dataset to determine the most similar movies based on important features of a movie.
 
 # Working
